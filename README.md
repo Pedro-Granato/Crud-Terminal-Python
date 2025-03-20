@@ -10,4 +10,4 @@ Implementação de cadastro de manipulação de usuários com operações CRUD.
 Clone o repositório: git clone https://github.com/Pedro-Granato/Crud-Terminal-Python.git
 
 Acesse o diretório cd Crud-Terminal-Python:
-python main.py
+python app.py
